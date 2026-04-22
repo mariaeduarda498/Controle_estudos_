@@ -1,0 +1,16 @@
+1 Git:conceitod basicos 
+GitHub repositorios
+VS Code:integeação com Git
+
+Git
+conceitos basicos
+commit
+branch
+
+GitHub
+repositorios
+pull request
+
+VS Code
+controle de versão 
+controlando versões
